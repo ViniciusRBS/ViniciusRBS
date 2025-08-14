@@ -1,10 +1,10 @@
 <!-- Banner no topo -->
-![Banner](https://via.placeholder.com/1200x300/0d1117/00aaff?text=Vinicius+Borges+%7C+Desenvolvedor+Full+Stack)
+![Banner](https://raw.githubusercontent.com/ViniciusRBS/ViniciusRBS/main/banner.png)
 
 # 👋 Olá! Eu sou Vinicius Borges
 💻 **Desenvolvedor Full Stack** com foco em **Flutter, PHP** e integração de sistemas.  
-📊 Experiência sólida em **bancos de dados SQL e NoSQL**, construindo aplicações performáticas e escaláveis.  
-🚀 Apaixonado por tecnologia e sempre em busca de novas soluções que otimizem processos e entreguem valor real.
+📊 Experiência sólida em **bancos de dados SQL e NoSQL**, criando soluções performáticas e escaláveis.  
+🚀 Apaixonado por tecnologia e sempre em busca de inovações que transformam ideias em realidade.
 
 ---
 
@@ -20,8 +20,8 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-[![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=ViniciusRBS&show_icons=true&theme=tokyonight)](https://github.com/SEU_USUARIO)
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusRBS&layout=compact&theme=tokyonight)](https://github.com/SEU_USUARIO)
+[![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=ViniciusRBS&show_icons=true&theme=tokyonight)](https://github.com/ViniciusRBS)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusRBS&layout=compact&theme=tokyonight)](https://github.com/ViniciusRBS)
 
 ---
 
@@ -31,9 +31,9 @@
 ---
 
 ## 📫 Como me encontrar
-📧 **E-mail:** [viniborges704@gmail.com](mailto:viniborges704@gmail.com)  
+📧 **E-mail:** [viniborges704@gmail.com](mailto:ViniciusRBS704@gmail.com)  
 🌐 **LinkedIn:** [linkedin.com/in/vinicius-borges-a0b5671a3](https://www.linkedin.com/in/vinicius-borges-a0b5671a3)  
 
 ---
 
-![Contador de Visitantes](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue)
+![Contador de Visitantes](https://komarev.com/ghpvc/?username=ViniciusRBS&color=blue)
