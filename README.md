@@ -20,8 +20,8 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-[![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)](https://github.com/SEU_USUARIO)
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)](https://github.com/SEU_USUARIO)
+[![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=ViniciusRBS&show_icons=true&theme=tokyonight)](https://github.com/SEU_USUARIO)
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusRBS&layout=compact&theme=tokyonight)](https://github.com/SEU_USUARIO)
 
 ---
 
